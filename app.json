@@ -1,0 +1,11 @@
+{
+  "name": "bonsai-heroku-review-app",
+  "addons": [
+    {
+      "plan": "bonsai:staging",
+      "options": {
+        "version": "2.4"
+      }
+    }
+  ]
+}
